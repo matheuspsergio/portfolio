@@ -1,7 +1,7 @@
 # Avaliação do potencial do Global Fishing Watching para o monitoramento da pesca industrial no Brasil
 
 
-## Compreender os padrões espaço-temporais das pescarias é fundamental para garantir a preservação de espécies e o equilíbrio dos ecossistemas. Assim, minha dissertação analisou o material sobre atividade pesqueira disponível no site da organização [Global Fishing Watch](https://globalfishingwatch.org/), de forma a averiguar se ele poderia ser utilizado para o Brasil.
+### Compreender os padrões espaço-temporais das pescarias é fundamental para garantir a preservação de espécies e o equilíbrio dos ecossistemas. Assim, minha dissertação analisou o material sobre atividade pesqueira disponível no site da organização [Global Fishing Watch](https://globalfishingwatch.org/), de forma a averiguar se ele poderia ser utilizado para o Brasil.
 
 Para tanto, os dados foram extraídos do site, limpos e analisados usando os scripts presentes nesta pasta. Para a compreensão ~~total do código e de sua documentação~~ do projeto, algumas definições são feitas abaixo:
 
