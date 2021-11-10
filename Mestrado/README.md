@@ -1,20 +1,14 @@
 # Avaliação do potencial do Global Fishing Watching para o monitoramento da pesca industrial no Brasil
 
 
-### Compreender os padrões espaço-temporais das pescarias é fundamental para garantir a preservação de espécies e o equilíbrio dos ecossistemas. Assim, minha dissertação analisou o material sobre atividade pesqueira disponível no site da organização [Global Fishing Watch](https://globalfishingwatch.org/), de forma a averiguar se ele poderia ser utilizado para o Brasil.
+Compreender os padrões espaço-temporais das pescarias é fundamental para garantir a preservação de espécies e o equilíbrio dos ecossistemas. Assim, minha dissertação analisou o material sobre atividade pesqueira disponível no site da organização [Global Fishing Watch](https://globalfishingwatch.org/), de forma a averiguar se ele poderia ser utilizado para o Brasil. A principal  questão é que essa base de dados é de abrangência global de forma que os países não foram olhados individualmente em detalhes[referências- kroodsma, albarejanza]. Em especial, o Brasil é um país que sabidamente há escassez de dados no que tange a pesca, de forma que uma análise mais minuciosa é necessária para atestar qualidade do material fornecido pela GFW. Para tanto, os 3 scripts na desta página foram escritos:
 
-Para tanto, os dados foram extraídos do site, limpos e analisados usando os scripts presentes nesta pasta. Para a compreensão ~~total do código e de sua documentação~~ do projeto, algumas definições são feitas abaixo:
+1-Limpeza de dados, em que somente os dados referentes ao Brasil foram aproveitados
 
-Petrecho (geartype)
+2-Acurácia dos algoritmos. Aqui os resultados produzidos pelos algoritmos da GFW foram testados. Em resumo, grande parte parte do conteúdo presente no dataset da GFW, tais como petrecho, comprimento e arqueação bruta foram inferidas [botar em italico] a partir dos dados de navegação dos barcos. O que fiz então, foi validar se as estimativas geradas foram boas. 
 
-MMSI
+3-Análise da atividade pesqueira. Após a validação, os dados foram utilizados para estudar os principais padrões encontrados encontrados para poder comparar com o que é descrito na literatura
 
-RGP
+Cabe destacar que meu projeto de mestrado extrapolou apresentado aqui, incluindo, por exemplo, análises cartográficas feitas no ArcGis. De fato, parte dos scripts foram escritos apenas para dar suporte a outras atividades, de forma que por vezes eles podem não ser facilmente compreendidos do resto. Esse foi o meu primeiro proejto escrito sem qualquer tipo de guia ou orientação e o código era utilizado somente por mim. Reconheço que por conta disso algumas partes não estão tão "pythônicas"
 
-Arqueação bruta (gross tonnage)
-
-Inicialmente, verificou-se que a o algoritmo classificou o tipo de embarcação corretamente em 67% dos casos. Por outro lado, foi observada uma correlação forte e significativa para o comprimento estimado e o e real (ρ= 0,57; p< 0,01), enquanto para AB, a correlação encontrada foi mais fraca e não significativa (ρ= 0,27; p= 0,18).
-Em termos de representatividade, a GFW possui 10% das embarcações de grande porte registradas. Entretanto, somente o espinhel de superfície e cerco apresentaram percentuais próximo ou superior a 10, de forma que apenas esses tipos de embarcação foram submetidos aos próximos testes. Análises da distribuição dos valores de comprimento e AB sugerem que não é possível afirmar que há diferenças significativas entre a frota oficial e a da GFW para os tipos de embarcação mencionados previamente.
-Ao espacializar os dados de atividade pesqueira, foram formados mapas de calor com padrões condizentes com o encontrado na literatura. Para o cerco, além da drástica redução da pesca durante os períodos de defeso da sardinha, as principais áreas pesqueiras foram as regiões costeiras do sul e sudeste brasileiro. Já para o espinhel de superfície, foi constatado um aumento da atividade pesqueira durante os meses mais quentes e ela ocorreu sobretudo além da plataforma continental, incluindo águas internacionais.
-Através dos resultados obtidos, destaca-se que apesar de a partir dos dados da GFW não ser viável o monitoramento de embarcações individualmente, nem de pequenas áreas, eles ainda possuem grande valia. De fato, foi possível utilizá-los para entender e acompanhar o comportamento das frotas nacionais de cerco e espinhel de superfície. Para tanto, é importante que haja uma correta identificação das embarcações, o que deve ser feito com informações o apoio de outras fontes, com órgãos federais.
-
+Adicionalmente, acrescentei um glossário com as definições de termos específicos do contexto da pesca e de análise espacial que aparecem nestes arquivos e que podem ser necessários para a compreensão de tudo que foi feito. Caso sinta qua algo tenha alguma sugestão a ser feita, por favor entre em contato!
