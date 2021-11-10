@@ -1,0 +1,22 @@
+
+# Glossário:
+
+Petrecho (geartype)- incluir petrechos adiconais
+
+Espinhel Horizontal (drifting longline)
+
+Cerco (purse seine
+
+MMSI
+
+RGP
+
+Arqueação bruta (gross tonnage)
+
+ZEE
+
+WGS84
+
+ArcGis
+
+Embarcação de grande porte
