@@ -1,1 +1,1 @@
-
+O arquivo chicago bike share foi um exercício de um curso que eu fiz. Nele, havia um script com uma série de exercícios para serem feitos para exercitar conceitos básicos de python e lógica de programação. Dessa forma, o código presente não é de minha total autoria, sendo minha participação restrita a execução dos exercícios.
