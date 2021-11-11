@@ -1,4 +1,4 @@
-# portfolio- em consntrução :hammer_and_wrench:
+# portfolio- em construção :hammer_and_wrench:
 
 Olá!
 
