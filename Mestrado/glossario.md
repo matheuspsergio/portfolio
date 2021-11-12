@@ -1,11 +1,11 @@
 
 # Glossário:
 
-__Petrecho (geartype):__ As embarcações pesqueiras se especializam em alvos diferentes, e para usam artefatos diferentes, os petrechos. Tal diferenciação é de grande importância, pois cada tipo de alvo possui estoques em situações diferentes (sobrepesca, ameaça de extinçã, etc.), com legislações prórpias (i.e período de defeso) e havitam regiões. diferentes.
+__Petrecho (geartype):__ As embarcações pesqueiras se especializam em alvos diferentes, e para usam artefatos diferentes, os petrechos. Tal diferenciação é de grande importância, pois cada tipo de alvo possui estoques em situações diferentes (sobrepesca, ameaça de extinção, etc.), com legislações prórpias (i.e período de defeso) e havitam regiões. diferentes.
 
 __Espinhel Horizontal (drifting longline):__ Um petrecho de grande relevância, utilizado para a captura de atuns
 
-__Cerco (purse seine):__ Outro petroch de grande importância, nesse caso é a partir dele que as espécies mais pescadas no país (sardinha, tainha) são capturadas.
+__Cerco (purse seine):__ Outro petrecho de grande importância, nesse caso é a partir dele que as espécies mais pescadas no país (sardinha, tainha) são capturadas.
 
 __Mobile Maritme Service Identifier (MMSI):__ Número utilizado para identificar embarcações. Esse sistema, contudo, não é perfeito, contendo problemas tais como uma mesma embarcação poder possuir mais de um MMSI ao longo do tempo. 
 
