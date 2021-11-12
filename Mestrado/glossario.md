@@ -1,9 +1,9 @@
 
 # Glossário:
 
-__Petrecho (geartype):__ As embarcações pesqueiras se especializam em alvos diferentes, e para usam artefatos diferentes, os petrechos. Tal diferenciação é de grande importância, pois cada tipo de alvo possui estoques em situações diferentes (sobrepesca, ameaça de extinção, etc.), com legislações prórpias (i.e período de defeso) e havitam regiões. diferentes.
+__Petrecho (geartype):__ As embarcações pesqueiras se especializam em alvos diferentes, e para usam artefatos diferentes, os petrechos. Tal diferenciação é de grande importância, pois cada tipo de alvo possui estoques em situações diferentes (sobrepesca, ameaça de extinção, etc.), com legislações prórpias (i.e período de defeso) e habitam regiões diferentes.
 
-__Espinhel Horizontal (drifting longline):__ Um petrecho de grande relevância, utilizado para a captura de atuns
+__Espinhel Horizontal (drifting longline):__ Um petrecho de grande relevância, utilizado para a captura de atuns.
 
 __Cerco (purse seine):__ Outro petrecho de grande importância, nesse caso é a partir dele que as espécies mais pescadas no país (sardinha, tainha) são capturadas.
 
