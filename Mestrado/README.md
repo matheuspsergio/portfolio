@@ -14,7 +14,7 @@ _3-Análise da atividade pesqueira. Após a validação, os dados foram utilizad
 <br />
 <br />
 <br />
-## Resumo principais achados
+## Resultados e recomendações
 A minha dissertação mostrou que, a despeito da baixa adesão do uso de AIS no Brasil, os dados da GFW podem ainda ser largamente aproveitados para estudos sobre a pesca de grande porte. Mais do que a situação brasileira, esse trabalho mostra como esses dados podem ser empregados para qualquer país com situação similar e o que é necessário para fazê-lo de forma confiável. Como principais achados, pode-se listar:<br />
 • É importante haver uma referência oficial sobre a frota a ser a analisada, sem confiar nos dados sobre embarcações gerados pelos algoritmos da GFW.<br />
 • Os dados do GFW podem ser usados em estudos sobre a pesca no Brasil de cerco e espinhel horizontal.<br />
