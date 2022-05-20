@@ -8,4 +8,6 @@ Aqui compartilho um pouco do meu desenvolvimento na área, atráves de projetos 
 
 - [x] Early work: Projetos desenvolvidos ao longo do curso Fundamentos de Data Science (2019)
 
+- [x] SQL queries: Script em que eu demonstro a capacidade de realizar consultas em bancos de dados 
+
 - [ ] Projetos diversos: Trabalhos de consulta e análise de dados prestados para colegas objetivando responder questões pontuais que eles me trouxeram
