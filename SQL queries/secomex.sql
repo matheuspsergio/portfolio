@@ -40,9 +40,4 @@ GROUP BY CO_NCM;
 Don't know why, but the --skip 1 command doesn't seem to work
 Still trying to figure it out, but I believe that it has something to do 
 with sqlite version
-
-
-To be  improved:
-Proper indexing;
-Removal of duplicates;
-Maybe search optmizations*/
+*/
