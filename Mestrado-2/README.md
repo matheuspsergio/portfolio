@@ -1,1 +1,1 @@
-Descrição
+No meu segundo mestrado, avalio a viabilidade econômica de uma fazenda marinha que cultiva o molusco vieira e o peixe bijupirá. Esse projeto em específico não teve uma carga de análise e limpeza de dados, por outro lado, tem um viés grande de business intelligence. Assim, os códigos aqui presente dizem respeito sobretudo à criação de visualizaão para auxiliar na compreensão dos dados.
