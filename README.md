@@ -4,7 +4,7 @@ Olá!
 
 Aqui compartilho um pouco do meu desenvolvimento na área, atráves de projetos que envolvem diversos aspectos como limpeza, análise e visualização de dados
 
-- [x] Mestrado-1: Scripts que eu de fato utilizei na minha primeira dissertação, em que foi aplicada sobretudo limpeza de dados e estatística inferencial
+- [x] Mestrado: Scripts que eu de fato utilizei na minha primeira dissertação, em que foi aplicada sobretudo limpeza de dados e estatística inferencial
 
 - [ ] Mestrado-2: Em meu segundo mestrado tenho usado o python sobretudo para criar visualizações relacionadas à viabildiade econômica de um emporeendimento
 
