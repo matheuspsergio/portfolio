@@ -1,11 +1,10 @@
 
 # portfolio- em construção (constante) :hammer_and_wrench:
 
-3
+
 Olá!
 
 Aqui compartilho um pouco do meu desenvolvimento na área, atráves de projetos que envolvem diversos aspectos como limpeza, análise e visualização de dados
-
 ​
 - [x] Early work: Projetos desenvolvidos ao longo do curso Fundamentos de Data Science (2019)
 
