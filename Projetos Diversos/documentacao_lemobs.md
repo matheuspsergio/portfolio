@@ -10,6 +10,11 @@ Com essa configuração de filtros, torna-se possível responder perguntas como:
 Para que os filtros sejam desativados, é necessário abrir a visualização correspondente ao acionamento do filtro.<br/>
 <br/>
 Buscando manter a consistência da escala de cor dos mapas da legenda diante de todas as filtragens e que ela tivesse uma referência numérica (em vez de simplesmente claro pouco acidente e escuro muito), a amplitude dela foi fixada. Isso também é reflexo de um comprmetimento de usar filtros mutualmente excludentes que implicava q para que a legenda não sumisse conforme a seleção, ela na verdade está vinculada a um terceiro mapa que fica permanentemente oculto (Sheet de nome "Legenda") cuja função é apenas fornecer esse objeto legenda. Como lado negativo dessa decisão é a perda de resolução da escala de cores ao se realizar algumas filtragens, pois as cores acabam "achatadas".
+<br/>
+Uma solução para isso seria dividir o dashboard em 2 páginas, uma para estado e outra para rodovias e o botão de filtro passaria a agir como botão de navegação entre as páginas. Todovia, essa decisão não foi tomada pois foi levado em consideração o alto grau de redundância que as páginas teriam, sendo portanto algo pouco otimizado. Testes de desmpenho poderão ser feitos futuramente para reavaliar essa situação.
+<br/>
+<br/>
+Já no gráfico de evolução de acidentes ao longo dos meses, cabe comentar sobre a opção de nível de detalhe disponibilizada pelo Tableau. Ela aparece como um ícone de "+" no lado esquerdo do eixo x. Ao clicar nele, a visualização muda: a resolução passa a ser diária e passa a existir 2 eixos x: um na parte inferior do gráfico, mostrando os dias; e um na parte superior, mostrando os meses em questão. Para retornar ao orignal, basta procurar pelo ícone de "-" que estará no canto superior esquerdo ao lado do rótulo de janeiro.
 
 ## Sobre o modelo de dados
 Foram usadas 2 fontes de dados: uma base dos acidentes em rodovias federais no período de 2007 a 2020 disponibilizada na plataforma kaggle no formato de arquivos csv; um shapefile da malha rodoviária nacional obtido no site do Departamento Nacional de Infraestrutura de Transportes.<br/>
