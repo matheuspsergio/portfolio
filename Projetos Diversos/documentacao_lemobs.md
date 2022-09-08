@@ -17,7 +17,7 @@ Uma solução para isso seria dividir o dashboard em 2 páginas, uma para estado
 Já no gráfico de evolução de acidentes ao longo dos meses, cabe comentar sobre a opção de nível de detalhe disponibilizada pelo Tableau. Ela aparece como um ícone de "+" no lado esquerdo do eixo x. Ao clicar nele, a visualização muda: a resolução passa a ser diária e passa a existir 2 eixos x: um na parte inferior do gráfico, mostrando os dias; e um na parte superior, mostrando os meses em questão. Para retornar ao orignal, basta procurar pelo ícone de "-" que estará no canto superior esquerdo ao lado do rótulo de janeiro.
 
 ## Sobre o modelo de dados
-Foram usadas 2 fontes de dados: uma base dos acidentes em rodovias federais no período de 2007 a 2020 disponibilizada na plataforma kaggle no formato de arquivos csv; um shapefile da malha rodoviária nacional obtido no site do Departamento Nacional de Infraestrutura de Transportes.<br/>
+Foram usadas 2 fontes de dados: uma base dos acidentes em rodovias federais no período de 2007 a 2020 disponibilizada na plataforma kaggle no formato de arquivos csv; um shapefile da malha rodoviária nacional obtido no site do [Departamento Nacional de Infraestrutura de Transportes](https://www.gov.br/infraestrutura/pt-br/assuntos/dados-de-transportes/bit/bitmodosmapas#maprodo).<br/>
 Cada fonte tinha sua própria chave primária, sendo que a conexão entre elas foi feita com um left join usando as respectivas colunas identificadoras de rodovia como chave estrangeira. Ademais, como os acidentes estavam divididos em arquivos anuais, os arquivos também precisaram ser unidos no Tableau.
 
 ## Sobre a limpeza de dados
